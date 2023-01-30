@@ -1,4 +1,3 @@
 # AX-Vehicles
-Hello, welcome to the A-Team page. Please visit our Discord channel [https://discord.gg/gqWSYatK69]
+Hello, welcome to the AX-Team page. Please visit our Discord channel [https://discord.gg/gqWSYatK69]
 
-Regards
